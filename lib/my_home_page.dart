@@ -1,9 +1,9 @@
 import 'package:collection/collection.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_track/exposure/flutter_exposure/ym_scroll_exposure_manager.dart';
 import 'package:flutter_track/other/ym_fonts.dart';
 import 'package:flutter_track/other/ym_loading.dart';
 import 'package:flutter_track/other/ym_refresh.dart';
+import 'package:flutter_track/ym_exposure/ym_scroll_exposure_manager.dart';
 
 enum SectionType {
   red,

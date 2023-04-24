@@ -1,6 +1,6 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
-import 'package:flutter_track/exposure/flutter_exposure/ym_exposure_wrapper.dart';
+import 'package:flutter_track/ym_exposure/ym_exposure_wrapper.dart';
 
 class YMScrollExposureManager {
   /// _db =【sectionKey : exposuredIndexSet】
